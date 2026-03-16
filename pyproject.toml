@@ -1,0 +1,3 @@
+[tool.poetry]
+name = "fastapi-shop"
+version = "0.1.0"
